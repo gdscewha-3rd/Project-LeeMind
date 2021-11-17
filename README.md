@@ -4,5 +4,6 @@
 
 ## 팀원
 |[김중현](https://github.com/JoongHyun-Kim)|[장예서](https://github.com/yesyeseo)|
-|---|---|
+|:---:|:---:|
 |<img src="https://github.com/JoongHyun-Kim.png" width="150" height="150" >|<img src="https://github.com/yesyeseo.png" width="150" height="150">|
+| **Frontend**|**Backend & AI**|
