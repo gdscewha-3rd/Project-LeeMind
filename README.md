@@ -9,11 +9,16 @@ Our nation's cultural competitiveness will derive from the everyday lives of ord
 
  「우리 문화 색깔 찾기」, 『이건희 에세이: 생각 좀 하며 세상을 보자』(1997) 中
  
+ <br>
+ <br>
+ 
  ---
-
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+<br>
+<br>
 
 ---
 
