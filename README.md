@@ -12,7 +12,6 @@ Our nation's cultural competitiveness will derive from the everyday lives of ord
  <br>
  <br>
  
- ---
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -20,7 +19,6 @@ Our nation's cultural competitiveness will derive from the everyday lives of ord
 <br>
 <br>
 
----
 
 ## Team Member
 |[김중현](https://github.com/JoongHyun-Kim)|[장예서](https://github.com/yesyeseo)|
